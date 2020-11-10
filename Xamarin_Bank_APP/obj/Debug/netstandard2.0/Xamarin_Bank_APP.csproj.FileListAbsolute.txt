@@ -1,0 +1,14 @@
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\bin\Debug\netstandard2.0\Xamarin_Bank_APP.deps.json
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\bin\Debug\netstandard2.0\Xamarin_Bank_APP.dll
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\bin\Debug\netstandard2.0\ref\Xamarin_Bank_APP.dll
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\bin\Debug\netstandard2.0\Xamarin_Bank_APP.pdb
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.csprojAssemblyReference.cache
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.AssemblyInfoInputs.cache
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.AssemblyInfo.cs
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.csproj.CoreCompileInputs.cache
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.dll
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\ref\Xamarin_Bank_APP.dll
+C:\Xamarin\Bank_APP\Xamarin_Bank_APP\Xamarin_Bank_APP\obj\Debug\netstandard2.0\Xamarin_Bank_APP.pdb
