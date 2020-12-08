@@ -1,9 +1,13 @@
 using System.Collections.Generic;
+using SQLite;
+
 
 namespace Banking
 {
     public class Bank
     {
+        [PrimaryKey, AutoIncrement]
+        public int BankId { get; set }
         public string BankName { get; set; }
         public int BranchCode { get; set; }
         public string BranchName { get; set; }

@@ -1,3 +1,5 @@
+using SQLite;
+using SQLiteNetExtensions.Attributes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -6,8 +8,13 @@ namespace Banking
 {
     public class BankAccount
     {
+        [PrimaryKey, AutoIncrement]
+        public int BankAccountId { get; set; }
         private static int LastAccountNumber = 6000;
 
+        [OneToMany (CascadeOperations = CascadeOperation.All)]
+         [ForeignKey(typeof(Customer))]
+         public int CustomerId { get; set; }
         public int AccountNumber { get; set; }
 
         public decimal Balance

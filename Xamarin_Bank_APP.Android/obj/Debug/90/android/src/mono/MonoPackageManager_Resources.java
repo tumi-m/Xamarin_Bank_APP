@@ -4,6 +4,13 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Xamarin_Bank_APP.Android.dll" comes first in this list. */
 		"Xamarin_Bank_APP.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
+		"SQLite-net.dll",
+		"SQLiteNetExtensions.dll",
+		"SQLitePCLRaw.batteries_v2.dll",
+		"SQLitePCLRaw.core.dll",
+		"SQLitePCLRaw.lib.e_sqlite3.android.dll",
+		"SQLitePCLRaw.provider.e_sqlite3.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

@@ -1,9 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "LABDJ8cRiP3J9QvxTYrJMzKwZgOhKgg+8cJGnJcRXprY7NwrEE41mmTQYOKEq47Wt9WDuhHn8cM9lCOyedfrUQ==",
+  "dgSpecHash": "3IDFN6syjgDYHbNB6Qghk5ELzrFJVDLyaq0jMPeugPjxWXTAdVV0tGbSL8c25T5E+A6GrFzOkU1SU7uxGnNVKQ==",
   "success": true,
   "projectFilePath": "C:\\Xamarin\\Bank_APP\\Xamarin_Bank_APP\\Xamarin_Bank_APP.iOS\\Xamarin_Bank_APP.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.3\\sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
